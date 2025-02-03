@@ -1,0 +1,38 @@
+<h1 align="center">  Earwyrm </h1>
+
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20C%2B%2B-2d6eb3?style=flat-square&logo=c%2B%2B">
+<img alt="Static Badge" src="https://img.shields.io/badge/CNAM_ENJMIN-ea0000?style=flat-square">
+</p>
+
+
+<p align="center">
+  <img src="screenshots/earwyrm0.png" width="400" title="Menu screen">
+</p>
+
+<p align="center">
+  <img src="screenshots/earwyrm1.png" width="350" title="In game screenshot">
+  <img src="screenshots/earwyrm2.png" width="350" title="In game screenshot">
+  <img src="screenshots/level3.png" width="350" title="In game screenshot">
+</p>
+
+
+<p>
+
+<h2> 🎮 Itch.io Page https://earwyrm.itch.io/earwyrm  </h2>
+
+Earwyrm is a rhythmic, action oriented, 4 players coop game. You and your teammates play as Dragon-Bards . A human army wants to prevent your people from making music so your team is sent on a mission to stop them!
+
+Using your musical magic, your objective is to prevent war by showing those bullies that your music doesn’t deserve such hate.
+
+A pleasing, melodic and convivial experience to share with family and friends
+  
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+For this game I realised : 
+- Action based gameplay using the State Machine pattern
+- Rythm synchronization using bpm signals from WWISE
+- Multiplayer using Unity's new input system
+- AIs with states machines and Unity's pathfinding
+- UI programming as well as acessibility features (infinite health, rythm assistance)
+  
+</p>
