@@ -2,18 +2,19 @@
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/Made%20in%20C%2B%2B-2d6eb3?style=flat-square&logo=c%2B%2B">
+<img alt="Static Badge" src="https://camo.githubusercontent.com/114977ff12e90ff82ec9bb351facc6c3bb1d4738d48f0f06dd1e55e3e016dbf3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3935346139343f7374796c653d666f722d7468652d6261646765">
 <img alt="Static Badge" src="https://img.shields.io/badge/CNAM_ENJMIN-ea0000?style=flat-square">
 </p>
 
 
 <p align="center">
-  <img src="screenshots/earwyrm0.png" width="400" title="Menu screen">
+  <img src="screenshots/Earwyrm0.png" width="400" title="Menu screen">
 </p>
 
 <p align="center">
   <img src="screenshots/earwyrm1.png" width="350" title="In game screenshot">
   <img src="screenshots/earwyrm2.png" width="350" title="In game screenshot">
-  <img src="screenshots/level3.png" width="350" title="In game screenshot">
+  <img src="screenshots/earwyrm3.png" width="350" title="In game screenshot">
 </p>
 
 
