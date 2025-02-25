@@ -1,4 +1,4 @@
-<h1 align="center">  Earwyrm </h1>
+<h1 align="center">  They Make Sounds </h1>
 
 <p align="center">
 <img alt="Static Badge" height="20" src="https://camo.githubusercontent.com/434992c6203f9e654fbc93c53391e918eb9b4860e141ad10ae3cbbbdc5707c59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556e6974792d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d303030303030">
